@@ -1,6 +1,6 @@
 # Epidemiological-Truth-Validator
-<img width="416" alt="Screenshot 2025-05-11 at 9 45 53 PM" src="https://github.com/user-attachments/assets/bbb5f09b-dff2-4912-ae2d-eae646958601" />
-- . 
+- <img width="416" alt="Screenshot 2025-05-11 at 9 45 53 PM" src="https://github.com/user-attachments/assets/bbb5f09b-dff2-4912-ae2d-eae646958601" />
+
 ## Problem Statement
 Health misinformation spreads rapidly on social media platforms, particularly during public health crises like COVID-19 and Monkeypox outbreaks. Inaccurate or misleading health advice can lead to widespread panic, poor medical decisions, and mistrust in scientific institutions. While many fact-checkers exist, there is a pressing need for real-time, intelligent systems that not only identify false information but also explain the reasoning behind these classifications and offer reliable health guidance.
 
